@@ -12,4 +12,4 @@ There are 3 questionnaire's
 
 - [ ] How much of the scope is known before the start of the project ?
 - [ ] Is there a specific time frame to complete the project ?
-- [ ] Can you define iterations which can sensibly quantify the progres of the project ?
+- [ ] Can you define iterations which can sensibly quantify the progress of the project ?
