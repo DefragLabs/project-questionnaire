@@ -1,5 +1,7 @@
 ## Frontend
+Below is a list of Frontend related checklist before starting any new project.
 
+### Platform support
 - [ ] What are the devices to be supported (Mobile/Tablet/Desktop) ?
 
 ### Designs & workflow
