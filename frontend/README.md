@@ -15,3 +15,7 @@
 
 ### Performance
 - [ ] Does this project have any performance goals ?
+
+### Testing
+- [ ] Unit testing
+- [ ] End to end testing (Using selenium)
