@@ -1,3 +1,8 @@
+Below is a list of Backend related checklist before starting any new project. This helps us in gathering the requirements in a detailed way at the same time, helping clients think through their requirements and see if they have missed out on anything.
+
+For a more generic project questionnaire, check out our [Generic Checklist](../README.md)
+
+
 ## Backend
 
 ### Apps
