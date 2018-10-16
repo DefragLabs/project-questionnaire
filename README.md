@@ -14,5 +14,5 @@ Its good to make the right decisions that are hard to change, like choosing a pr
 - [ ] How much of the scope is known before the start of the project ?
 - [ ] Is there a specific time frame to complete the project ?
 - [ ] Can you define iterations which can sensibly quantify the progress of the project ?
-- [ ] Do you have the functional requirement document (FRD) or you want to us create it ?
+- [ ] Do you have the functional requirement document (FRD) or you want us to create it ?
 - [ ] Do you have any designs/wireframes for the requirement? Would you want us to do it?
