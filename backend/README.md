@@ -3,8 +3,9 @@
 ### Apps
 
 - [ ] Admin
-- [ ] Client
+- [ ] Client (Mobile?)
 - [ ] Other apps
+- [ ] IoT
 
 ### User management
 
@@ -17,6 +18,8 @@
 
 - [x] Https
 - [ ] Static resource encryption (Like report PDF's etc.)
+- [ ] On-premise deployment
+- [ ] Multitenancy
 
 ### Data
 
@@ -24,6 +27,7 @@
 - [ ] Audit logs
 - [ ] Only soft delete's
 - [ ] Encrypted data in database
+- [ ] Export/Download in particular format?
 
 ### Performance
 
