@@ -17,8 +17,12 @@
 ### Communication
 
 - [ ] Email communication
+- [ ] Email Templates
 - [ ] App Notifications
 - [ ] Any other form of communication?
+
+### 3rd Party Integrations
+- [ ] Require 3rd Party integrations?
 
 ### Security
 
