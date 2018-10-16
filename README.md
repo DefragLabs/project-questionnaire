@@ -4,8 +4,8 @@ Questionnaire before starting a project
 There are 3 questionnaire's
 
 1. General
-2. Backend
-3. Frontend
+2. [Backend](backend/README.md)
+3. [Frontend](frontend/README.md)
 
 Its good to make the right decisions that are hard to change, like choosing a programming language, database etc.
 
