@@ -14,6 +14,12 @@
 - [ ] OTP based login
 - [ ] Social login
 
+### Communication
+
+- [ ] Email communication
+- [ ] App Notifications
+- [ ] Any other form of communication?
+
 ### Security
 
 - [x] Https
